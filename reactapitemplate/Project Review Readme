@@ -1,0 +1,15 @@
+///////////////////////////// Getting the project running ///////////////////////////////////
+1) Install NodeJs by going to https://nodejs.org/en/download/
+2) Install react using npm commands in your command prompt: npm install -g create-react-app
+3) clone this respository on your local machine
+4) extract the contents of the zip folder
+5) cd into the extracted folder via command prompt
+6) Run npm command in the directory: npm install
+7) once command has finished and no errors have occured, run the following command: npm start
+8) If any errors occur during this process, please reach out via email at aliaslam7163@gmail.com
+9) If no errors occur, then test away.
+
+
+
+////////////////////////// Project Details //////////////////////////////////////////
+
