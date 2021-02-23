@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
+import './index.css';
 import DateSelector from './components/DateSelector'
 import Chart from './components/Chart'
 import AbortController from "abort-controller"
